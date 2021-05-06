@@ -9,9 +9,4 @@ const Header = ({ onAdd, showAdd }) => {
   )
 }
 
-// CSS in JS
-//const headingStyle = {
-//    color: 'red',
-//    backgroundColor: 'black'
-//}
 export default Header
